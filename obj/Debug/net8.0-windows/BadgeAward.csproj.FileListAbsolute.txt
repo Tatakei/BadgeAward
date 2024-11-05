@@ -1,0 +1,17 @@
+C:\Users\Sascha\source\repos\BadgeAward\BadgeAward\bin\Debug\net8.0-windows\BadgeAward.exe
+C:\Users\Sascha\source\repos\BadgeAward\BadgeAward\bin\Debug\net8.0-windows\BadgeAward.deps.json
+C:\Users\Sascha\source\repos\BadgeAward\BadgeAward\bin\Debug\net8.0-windows\BadgeAward.runtimeconfig.json
+C:\Users\Sascha\source\repos\BadgeAward\BadgeAward\bin\Debug\net8.0-windows\BadgeAward.dll
+C:\Users\Sascha\source\repos\BadgeAward\BadgeAward\bin\Debug\net8.0-windows\BadgeAward.pdb
+C:\Users\Sascha\source\repos\BadgeAward\BadgeAward\obj\Debug\net8.0-windows\BadgeAward.Form1.resources
+C:\Users\Sascha\source\repos\BadgeAward\BadgeAward\obj\Debug\net8.0-windows\BadgeAward.csproj.GenerateResource.cache
+C:\Users\Sascha\source\repos\BadgeAward\BadgeAward\obj\Debug\net8.0-windows\BadgeAward.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sascha\source\repos\BadgeAward\BadgeAward\obj\Debug\net8.0-windows\BadgeAward.AssemblyInfoInputs.cache
+C:\Users\Sascha\source\repos\BadgeAward\BadgeAward\obj\Debug\net8.0-windows\BadgeAward.AssemblyInfo.cs
+C:\Users\Sascha\source\repos\BadgeAward\BadgeAward\obj\Debug\net8.0-windows\BadgeAward.csproj.CoreCompileInputs.cache
+C:\Users\Sascha\source\repos\BadgeAward\BadgeAward\obj\Debug\net8.0-windows\BadgeAward.dll
+C:\Users\Sascha\source\repos\BadgeAward\BadgeAward\obj\Debug\net8.0-windows\refint\BadgeAward.dll
+C:\Users\Sascha\source\repos\BadgeAward\BadgeAward\obj\Debug\net8.0-windows\BadgeAward.pdb
+C:\Users\Sascha\source\repos\BadgeAward\BadgeAward\obj\Debug\net8.0-windows\BadgeAward.genruntimeconfig.cache
+C:\Users\Sascha\source\repos\BadgeAward\BadgeAward\obj\Debug\net8.0-windows\ref\BadgeAward.dll
+C:\Users\Sascha\source\repos\BadgeAward\BadgeAward\obj\Debug\net8.0-windows\BadgeAward.Properties.Resources.resources
